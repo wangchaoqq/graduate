@@ -9,7 +9,7 @@ builder ”。
 WINDOWS 操作系统环境下所使用之程序编程软件。WPLSoft 除了一般 PLC 程序的规划及
 WINDOWS
 的一般编辑功能（例如：剪切、粘贴、复制、多窗口……）外，另提供多种中/英文批注编程及其它便利功能（例如：寄存器编程、设置、文件读取、存盘及各接点图标监测与设置等等…）。在使用WPLSoft软件之前，需要确认操作系统如图1
-
+![Aaron Swartz]（https://raw.githubusercontent.com/sunbeachsea/graduate/master/wangchaoqi/image/%E5%9B%BE1.png）
 而对于ISPSoft软件为台达新一代的可编程控制器（PLC）开发工具，采用IEC
 61131-3的编程架构，支持五种编程语言以及丰富的应用指令集。除了具备基本的程序编辑功能之外，它还包含了许多的辅助工具，加上多语系的环境和亲切的使用界面，提供用户的将会是一个便利且高效的开发环境。而它的使用的操作系统如图2
 
